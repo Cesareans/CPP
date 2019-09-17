@@ -15,13 +15,16 @@ public:
 	}
 };
 
-A getA()
-{
+A getA() {
 	A a = A();
 	return a;
 }
 
-A&& getRRefA()
+A getDirectA(){
+    return A();
+}
+
+A&& getRightValueRefOfA()
 {
 	A a = A();
 	return move(a);
@@ -30,8 +33,10 @@ A&& getRRefA()
 int main()
 {
 	int i = 0;
-	int& li = i; // ×óÖµÒıÓÃ
-	int&& ri = 0; // ÓÒÖµÒıÓÃ
+	int& li = i; // å·¦å€¼å¼•ç”¨
+	int&& ri = 0; // å³å€¼å¼•ç”¨
+	// int&& rii = i; å³å€¼å¼•ç”¨æŒ‡å‘å·¦å€¼
+	auto&& lii = i; // å¸¦æœ‰å¼•ç”¨æŠ˜å çš„è‡ªä¸»åˆ¤æ–­å¾—åˆ°å·¦å€¼å¼•ç”¨=> int& && = int&
 
 	printf("%d\n", ri);
 	ri = 1;
@@ -39,7 +44,7 @@ int main()
 	printf("%p\n", &li);
 	printf("%p\n", &ri);
 
-	const int& j = 9; // ³£Á¿ÒıÓÃ
+	const int& j = 9; // å¸¸é‡å¼•ç”¨
 	// int& j = 9; = wrong
 	
 	cout << endl;
@@ -48,17 +53,37 @@ int main()
 	A a1(a);
 	cout << endl;
 
-	cout << "Get A\n";
+    cout << "###Create A\n";
+    A();
+    cout << endl;
+    A ca = A();
+    cout << endl;
+
+	cout << "###Get A\n";
+	getA();
+    cout << endl;
 	A a2 = getA();
 	cout << endl;
 	A&& a3 = getA();
 	cout << endl;
+    A&& a4 = move(getA());
+    cout << endl;
 
-	cout << "Get r ref A\n";
-	A a4 = getRRefA();
+    cout << "###Get Direct A\n";
+    A ad1 = getDirectA();
+    cout << endl;
+    A&& ad2 = getDirectA();
+    cout << endl;
+    A&& ad3 = move(getDirectA());
+    cout << endl;
+
+	cout << "###Get r ref A\n";
+	A a5 = getRightValueRefOfA();
 	cout << endl;
-	A&& a5 = getRRefA();
+	A&& a6 = getRightValueRefOfA();
 	cout << endl;
+
+
 
 	return 0;
 }
