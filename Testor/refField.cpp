@@ -14,7 +14,7 @@ private:
     Ref &r;
 
 public:
-    RefField(Ref& ref) : r(ref) {}
+    explicit RefField(Ref& ref) : r(ref) {}
 
     void f(){
         cout<<"RefField f"<<endl;

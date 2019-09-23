@@ -1,33 +1,44 @@
 #include <cstdio>
 #include <iostream>
+
 using namespace std;
-class A
-{
+
+class A {
 public:
-	A(){
-		cout << "Construct A" << endl;
-	}
-	A(const A& a){
-		cout << "Copy construct A" << endl;
-	}
-	A(A&& a) {
-		cout << "Transfer construct A" << endl;
-	}
+    A() {
+        cout << "Construct A" << endl;
+    }
+
+    A(const A &a) {
+        cout << "Copy construct A" << endl;
+    }
+
+    A(A &&a) noexcept {
+        cout << "Transfer construct A" << endl;
+    }
+
+    A &operator=(const A &a) {
+        cout << "Assign construct A" << endl;
+    }
+
+    A &operator=(A &&a) noexcept {
+        cout << "Transfer assign A" << endl;
+    }
+
 };
 
 A getA() {
-	A a = A();
-	return a;
+    A a = A();
+    return a;
 }
 
-A getDirectA(){
+A getDirectA() {
     return A();
 }
 
-A&& getRightValueRefOfA()
-{
-	A a = A();
-	return move(a);
+A &&getRightValueRefOfA() {
+    A a = A();
+    return move(a);
 }
 
 int main()
@@ -46,7 +57,7 @@ int main()
 
 	const int& j = 9; // 常量引用
 	// int& j = 9; = wrong
-	
+
 	cout << endl;
 	A a;
 	cout << endl;
@@ -82,8 +93,6 @@ int main()
 	cout << endl;
 	A&& a6 = getRightValueRefOfA();
 	cout << endl;
-
-
 
 	return 0;
 }
