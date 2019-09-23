@@ -6,7 +6,6 @@ set (CMAKE_CXX_FLAGS "-fno-elide-constructors")
 
 add_executable(rValueRef rValueRef.cpp)
 add_executable(constructor constructor.cpp)
-add_executable(localObject localObject.cpp)
 add_executable(template templatePoly.cpp)
 add_executable(virtualInherit virtualInherit.cpp)
 add_executable(vptr vptr.cpp)

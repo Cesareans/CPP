@@ -2,7 +2,7 @@
 using namespace std;
 
 template<class derive>
-class base
+class Base
 {
 public:
 	void print()
@@ -24,17 +24,17 @@ protected:
 	};
 };
 
-class der :public base<der>
+class Der : public Base<Der>
 {
 public:
-	der(int foo) :_foo(foo) {}
+	Der(int foo) : _foo(foo) {}
 	static void print()
 	{
-		cout << "in der print" << endl;
+		cout << "in Der print" << endl;
 	};
 	void m_print()
 	{
-		cout << "in der member fun m_print" << endl;
+		cout << "in Der member fun m_print" << endl;
 		cout << "has member foo=" << _foo << endl;
 	}
 private:
@@ -42,20 +42,20 @@ private:
 };
 
 template<class base>
-class der2 :public base
+class Der2 : public base
 {
 public:
 	static void print()
 	{
-		cout << "in der2 print" << endl;
+		cout << "in Der2 print" << endl;
 	};
 	void m_print()
 	{
-		cout << "in der2 member fun m_print" << endl;
+		cout << "in Der2 member fun m_print" << endl;
 	}
 };
 
-class tmpclass
+class TmpClass
 {
 public:
 	void test()
@@ -66,11 +66,11 @@ public:
 
 int main(int argc, char* argv[])
 {
-	base<der>* pb = new der(100);
+	Base<Der>* pb = new Der(100);
 	pb->print();
 	pb->m_print();
 
-	der2<tmpclass> d2;
+	Der2<TmpClass> d2;
 	d2.print();
 	d2.m_print();
 	d2.test();
