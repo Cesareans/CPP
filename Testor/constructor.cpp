@@ -9,6 +9,9 @@ public:
 	A(int i) {
 		cout << "A(" << i << ")\n";
 	}
+	virtual void func(){
+	    cout << "A.func" << endl;
+	}
 
 private:
 	A(const A& a){
@@ -18,8 +21,11 @@ private:
 
 class B : public A {
 public:
+    virtual void func(){
+        cout << "B.func" << endl;
+    }
 	B() {
-
+        func();
 	}
 	B(int i) : A(i) {
 
