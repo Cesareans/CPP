@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <cstdio>
 
 
 class A {
@@ -28,7 +28,7 @@ void (C::* pcbar)() = &C::bar;   // ptr: 1, adj: 8
 
 int main() {
 	A* a = new A();
-	printf("%d %d\n", sizeof(&A::foo), sizeof(long*));
+	printf("%lu %lu\n", sizeof(&A::foo), sizeof(long*));
 	printf("&A::vptr: 0x%X\n", *(int*)a);
 	printf("&A::foo->ptr: 0x%lX, ", PART1_OF_PTR(pafoo));   // 1
 	printf("&A::foo->adj: 0x%lX\n", PART2_OF_PTR(pafoo));   // 0

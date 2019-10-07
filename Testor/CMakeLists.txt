@@ -3,6 +3,7 @@ project(CPPTestor)
 
 set(CMAKE_CXX_STANDARD 14)
 set (CMAKE_CXX_FLAGS "-fno-elide-constructors")
+
 add_executable(rValueRef rValueRef.cpp)
 add_executable(constructor constructor.cpp)
 add_executable(template templatePoly.cpp)
@@ -16,3 +17,5 @@ add_executable(initialize initialize.cpp)
 add_executable(new new.cpp)
 add_executable(static static.cpp)
 add_executable(funcJudge funcJudge.cpp)
+add_executable(nullptr nullptr.cpp)
+add_executable(VirtualClass VirtualClass.cpp)
