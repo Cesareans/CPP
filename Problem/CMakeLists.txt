@@ -3,6 +3,4 @@ project(CPP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_subdirectory(Testor)
-add_subdirectory(Algorithm)
-add_subdirectory(Problem)
+add_executable(2016NME_XiaoYi 2016NME_XiaoYi.cpp)

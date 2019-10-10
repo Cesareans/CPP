@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf8b7127-7abd-4f24-86c2-0d14e1b23342" name="Cesare" url="http://120.79.138.65">
+        <fileTransfer host="120.79.138.65" port="22" privateKey="$USER_HOME$/.ssh/PhantomPair.pem" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
