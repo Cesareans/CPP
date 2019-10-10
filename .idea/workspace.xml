@@ -18,6 +18,7 @@
       <config projectName="CPP" targetName="new" />
       <config projectName="CPP" targetName="nullptr" />
       <config projectName="CPP" targetName="vtable" />
+      <config projectName="CPP" targetName="2016NME_BatteryAttack" />
       <config projectName="CPP" targetName="2016NME_XiaoYi" />
     </generated>
   </component>
@@ -27,18 +28,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deab2b91-aafd-493a-b791-ec8b92d9146e" name="Default Changelist" comment="Some more test">
-      <change afterPath="$PROJECT_DIR$/.idea/CPP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/2016NME_XiaoYi.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+    <list default="true" id="deab2b91-aafd-493a-b791-ec8b92d9146e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problem/NME/2016NME_BatteryAttack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/NME/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/2016NME_XiaoYi.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/NME/2016NME_XiaoYi.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +59,13 @@
     <select />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -99,6 +101,7 @@
       <recent name="$PROJECT_DIR$/Algorithm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Problem/NME" />
       <recent name="$PROJECT_DIR$/Testor/header" />
       <recent name="$PROJECT_DIR$/Algorithm" />
     </key>
@@ -115,7 +118,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.2016NME_XiaoYi">
+  <component name="RunManager" selected="CMake Application.2016NME_BatteryAttack">
+    <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="2016NME_XiaoYi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_XiaoYi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_XiaoYi">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -203,6 +211,7 @@
     </configuration>
     <list>
       <item itemvalue="CMake Application.CPPAlgorithm" />
+      <item itemvalue="CMake Application.2016NME_BatteryAttack" />
       <item itemvalue="CMake Application.2016NME_XiaoYi" />
       <item itemvalue="CMake Application.constructor" />
       <item itemvalue="CMake Application.explicit" />
@@ -235,7 +244,7 @@
       <workItem from="1569052539348" duration="8259000" />
       <workItem from="1570336269057" duration="1946000" />
       <workItem from="1570524580053" duration="5000" />
-      <workItem from="1570685446456" duration="1542000" />
+      <workItem from="1570685446456" duration="2565000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -279,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570426356253</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2016NME-简单模拟题">
+      <created>1570687222679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570687222679</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,6 +319,7 @@
     <MESSAGE value="Init" />
     <MESSAGE value="refField" />
     <MESSAGE value="Some more test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some more test" />
+    <MESSAGE value="2016NME-简单模拟题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2016NME-简单模拟题" />
   </component>
 </project>

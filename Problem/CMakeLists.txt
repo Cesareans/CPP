@@ -3,4 +3,4 @@ project(CPP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(2016NME_XiaoYi 2016NME_XiaoYi.cpp)
+add_subdirectory(NME)
