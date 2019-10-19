@@ -1,5 +1,6 @@
 #include <iostream>
 
+static int k = 0;
 static int i() {
 	printf("i");
 	return 0;

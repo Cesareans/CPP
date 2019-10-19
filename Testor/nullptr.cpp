@@ -10,6 +10,8 @@ public:
 int main(){
     A * a = nullptr;
     a->func();
+    int * ai = reinterpret_cast<int*>(a);
+    cout << ai;
 
     return 0;
 }

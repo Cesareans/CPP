@@ -3,5 +3,5 @@ project(CPP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(2016NME_XiaoYi NME/2016NME_XiaoYi.cpp)
-add_executable(2016NME_BatteryAttack NME/2016NME_BatteryAttack.cpp)
+add_executable(2016NME_XiaoYi 2016NME_XiaoYi.cpp)
+add_executable(2016NME_BatteryAttack 2016NME_BatteryAttack.cpp)
