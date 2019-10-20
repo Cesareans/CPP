@@ -2,28 +2,32 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="CPP" targetName="CPPAlgorithm" />
       <config projectName="CPP" targetName="vptr" />
+      <config projectName="CPP" targetName="struct" />
+      <config projectName="CPP" targetName="operator" />
+      <config projectName="CPP" targetName="template" />
+      <config projectName="CPP" targetName="VirtualClass" />
+      <config projectName="CPP" targetName="Trie" />
+      <config projectName="CPP" targetName="refField" />
+      <config projectName="CPP" targetName="intelljPtrImpl" />
+      <config projectName="CPP" targetName="virtualInherit" />
+      <config projectName="CPP" targetName="initOrder" />
+      <config projectName="CPP" targetName="new" />
+      <config projectName="CPP" targetName="2016NME_XiaoYi" />
+      <config projectName="CPP" targetName="CPPAlgorithm" />
       <config projectName="CPP" targetName="funcJudge" />
       <config projectName="CPP" targetName="constructor" />
       <config projectName="CPP" targetName="static" />
       <config projectName="CPP" targetName="initialize" />
-      <config projectName="CPP" targetName="struct" />
-      <config projectName="CPP" targetName="operator" />
-      <config projectName="CPP" targetName="template" />
       <config projectName="CPP" targetName="intellijPtr" />
-      <config projectName="CPP" targetName="VirtualClass" />
-      <config projectName="CPP" targetName="Trie" />
-      <config projectName="CPP" targetName="refField" />
+      <config projectName="CPP" targetName="virtualFunc" />
       <config projectName="CPP" targetName="rValueRef" />
       <config projectName="CPP" targetName="explicit" />
       <config projectName="CPP" targetName="emptyClass" />
-      <config projectName="CPP" targetName="virtualInherit" />
-      <config projectName="CPP" targetName="new" />
+      <config projectName="CPP" targetName="test" />
       <config projectName="CPP" targetName="nullptr" />
       <config projectName="CPP" targetName="2016NME_BatteryAttack" />
       <config projectName="CPP" targetName="vtable" />
-      <config projectName="CPP" targetName="2016NME_XiaoYi" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -33,19 +37,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deab2b91-aafd-493a-b791-ec8b92d9146e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Structure/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Structure/Trie.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testor/emptyClass.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testor/operator.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testor/struct.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/initOrder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/intelljPtrImpl.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/virtualFunc.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/NME/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/NME/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testor/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testor/header/static.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/header/static.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testor/nullptr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/nullptr.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testor/static.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/static.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testor/VirtualClass.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/virtualClass.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testor/emptyClass.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/emptyClass.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +104,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Problem" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -130,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.operator">
+  <component name="RunManager" selected="CMake Application.test">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -176,12 +176,22 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="initOrder" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="initOrder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="initOrder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="initialize" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="initialize" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="initialize">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="intellijPtr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="intellijPtr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="intellijPtr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intelljPtrImpl" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="intelljPtrImpl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="intelljPtrImpl">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -226,6 +236,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="virtualFunc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="virtualFunc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="virtualFunc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="virtualInherit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="virtualInherit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="virtualInherit">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -242,6 +262,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Application.test" />
       <item itemvalue="CMake Application.CPPAlgorithm" />
       <item itemvalue="CMake Application.2016NME_BatteryAttack" />
       <item itemvalue="CMake Application.2016NME_XiaoYi" />
@@ -251,7 +272,9 @@
       <item itemvalue="CMake Application.explicit" />
       <item itemvalue="CMake Application.funcJudge" />
       <item itemvalue="CMake Application.initialize" />
+      <item itemvalue="CMake Application.initOrder" />
       <item itemvalue="CMake Application.intellijPtr" />
+      <item itemvalue="CMake Application.intelljPtrImpl" />
       <item itemvalue="CMake Application.new" />
       <item itemvalue="CMake Application.nullptr" />
       <item itemvalue="CMake Application.operator" />
@@ -261,6 +284,7 @@
       <item itemvalue="CMake Application.struct" />
       <item itemvalue="CMake Application.template" />
       <item itemvalue="CMake Application.VirtualClass" />
+      <item itemvalue="CMake Application.virtualFunc" />
       <item itemvalue="CMake Application.virtualInherit" />
       <item itemvalue="CMake Application.vptr" />
       <item itemvalue="CMake Application.vtable" />
@@ -283,7 +307,7 @@
       <workItem from="1570685446456" duration="2601000" />
       <workItem from="1570690329311" duration="13000" />
       <workItem from="1571371816192" duration="721000" />
-      <workItem from="1571411031444" duration="2801000" />
+      <workItem from="1571411031444" duration="16286000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -341,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570690278566</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="2016NME-简单模拟题">
+      <created>1571464389882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1571464389883</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
