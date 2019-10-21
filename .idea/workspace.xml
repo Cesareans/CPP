@@ -7,6 +7,7 @@
       <config projectName="CPP" targetName="const" />
       <config projectName="CPP" targetName="struct" />
       <config projectName="CPP" targetName="operator" />
+      <config projectName="CPP" targetName="nSum" />
       <config projectName="CPP" targetName="SearchIn2DArray" />
       <config projectName="CPP" targetName="template" />
       <config projectName="CPP" targetName="VirtualClass" />
@@ -23,17 +24,20 @@
       <config projectName="CPP" targetName="static" />
       <config projectName="CPP" targetName="initialize" />
       <config projectName="CPP" targetName="multiInclude" />
+      <config projectName="CPP" targetName="cutRope" />
       <config projectName="CPP" targetName="intellijPtr" />
       <config projectName="CPP" targetName="climbStairs" />
       <config projectName="CPP" targetName="virtualFunc" />
       <config projectName="CPP" targetName="buildBinaryTree" />
       <config projectName="CPP" targetName="rValueRef" />
       <config projectName="CPP" targetName="explicit" />
+      <config projectName="CPP" targetName="midianInDataFlow" />
       <config projectName="CPP" targetName="emptyClass" />
       <config projectName="CPP" targetName="test" />
       <config projectName="CPP" targetName="nullptr" />
       <config projectName="CPP" targetName="2016NME_BatteryAttack" />
       <config projectName="CPP" targetName="vtable" />
+      <config projectName="CPP" targetName="arrayOverHalf" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -43,9 +47,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="564aa870-1d22-43aa-a5df-43e4aab69ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem/climbStairs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/arrayOverHalf.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/cutRope.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/midianInDataFlow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/nSum.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.climbStairs">
+  <component name="RunManager" selected="CMake Application.midianInDataFlow">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -161,6 +168,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="arrayOverHalf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="arrayOverHalf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="arrayOverHalf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="buildBinaryTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="buildBinaryTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="buildBinaryTree">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -177,6 +189,11 @@
       </method>
     </configuration>
     <configuration name="constructor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="constructor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="constructor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cutRope" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="cutRope" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="cutRope">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -221,7 +238,17 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="midianInDataFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="midianInDataFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="midianInDataFlow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="multiInclude" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="multiInclude" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="multiInclude">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nSum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="nSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="nSum">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -297,7 +324,11 @@
       <item itemvalue="CMake Application.climbStairs" />
       <item itemvalue="CMake Application.2016NME_BatteryAttack" />
       <item itemvalue="CMake Application.2016NME_XiaoYi" />
+      <item itemvalue="CMake Application.arrayOverHalf" />
       <item itemvalue="CMake Application.buildBinaryTree" />
+      <item itemvalue="CMake Application.cutRope" />
+      <item itemvalue="CMake Application.midianInDataFlow" />
+      <item itemvalue="CMake Application.nSum" />
       <item itemvalue="CMake Application.SearchIn2DArray" />
       <item itemvalue="CMake Application.Trie" />
       <item itemvalue="CMake Application.const" />
@@ -345,7 +376,7 @@
       <workItem from="1571371816192" duration="721000" />
       <workItem from="1571411031444" duration="16555000" />
       <workItem from="1571551235091" duration="4408000" />
-      <workItem from="1571666736473" duration="1499000" />
+      <workItem from="1571666736473" duration="6887000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -431,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571668132467</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2016NME-简单模拟题">
+      <created>1571668721511</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1571668721511</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -459,10 +497,31 @@
     <option name="LAST_COMMIT_MESSAGE" value="2016NME-简单模拟题" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/cutRope.cpp</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/cutRope.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/midianInDataFlow.cpp</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="pre[pl]" language="ObjectiveC" />
-        <watch expression="mid[i]" language="ObjectiveC" />
+        <watch expression="solution.maxHeap.size()" language="ObjectiveC" />
+        <watch expression="solution.maxHeap.top()" language="ObjectiveC" />
+        <watch expression="solution.minHeap.size()" language="ObjectiveC" />
+        <watch expression="solution.minHeap.top()" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
