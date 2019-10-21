@@ -24,6 +24,7 @@
       <config projectName="CPP" targetName="initialize" />
       <config projectName="CPP" targetName="multiInclude" />
       <config projectName="CPP" targetName="intellijPtr" />
+      <config projectName="CPP" targetName="climbStairs" />
       <config projectName="CPP" targetName="virtualFunc" />
       <config projectName="CPP" targetName="buildBinaryTree" />
       <config projectName="CPP" targetName="rValueRef" />
@@ -41,12 +42,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="564aa870-1d22-43aa-a5df-43e4aab69ae2" name="Default Changelist" comment="2016NME-简单模拟题">
-      <change afterPath="$PROJECT_DIR$/Testor/header/multiInclude.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testor/header/multiInclude1.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testor/multiInclude.cpp" afterDir="false" />
+    <list default="true" id="564aa870-1d22-43aa-a5df-43e4aab69ae2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Problem/climbStairs.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testor/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.multiInclude">
+  <component name="RunManager" selected="CMake Application.climbStairs">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -163,6 +162,11 @@
       </method>
     </configuration>
     <configuration name="buildBinaryTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="buildBinaryTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="buildBinaryTree">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="climbStairs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="climbStairs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="climbStairs">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -290,6 +294,7 @@
     <list>
       <item itemvalue="CMake Application.test" />
       <item itemvalue="CMake Application.CPPAlgorithm" />
+      <item itemvalue="CMake Application.climbStairs" />
       <item itemvalue="CMake Application.2016NME_BatteryAttack" />
       <item itemvalue="CMake Application.2016NME_XiaoYi" />
       <item itemvalue="CMake Application.buildBinaryTree" />
@@ -340,7 +345,7 @@
       <workItem from="1571371816192" duration="721000" />
       <workItem from="1571411031444" duration="16555000" />
       <workItem from="1571551235091" duration="4408000" />
-      <workItem from="1571666736473" duration="970000" />
+      <workItem from="1571666736473" duration="1499000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -419,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571556342423</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2016NME-简单模拟题">
+      <created>1571668132467</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1571668132467</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
