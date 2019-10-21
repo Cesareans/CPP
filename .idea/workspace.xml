@@ -40,12 +40,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="deab2b91-aafd-493a-b791-ec8b92d9146e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Testor/const.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testor/decltype.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Testor/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/CMakeLists.txt" afterDir="false" />
-    </list>
+    <list default="true" id="deab2b91-aafd-493a-b791-ec8b92d9146e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
