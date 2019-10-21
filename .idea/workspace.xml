@@ -3,6 +3,8 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="CPP" targetName="vptr" />
+      <config projectName="CPP" targetName="decltype" />
+      <config projectName="CPP" targetName="const" />
       <config projectName="CPP" targetName="struct" />
       <config projectName="CPP" targetName="operator" />
       <config projectName="CPP" targetName="SearchIn2DArray" />
@@ -39,11 +41,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deab2b91-aafd-493a-b791-ec8b92d9146e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/SearchIn2DArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/buildBinaryTree.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/const.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/decltype.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testor/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.buildBinaryTree">
+  <component name="RunManager" selected="CMake Application.decltype">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -164,7 +165,17 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="const" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="const" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="const">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="constructor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="constructor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="constructor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decltype" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="decltype" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="decltype">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -277,7 +288,9 @@
       <item itemvalue="CMake Application.buildBinaryTree" />
       <item itemvalue="CMake Application.SearchIn2DArray" />
       <item itemvalue="CMake Application.Trie" />
+      <item itemvalue="CMake Application.const" />
       <item itemvalue="CMake Application.constructor" />
+      <item itemvalue="CMake Application.decltype" />
       <item itemvalue="CMake Application.emptyClass" />
       <item itemvalue="CMake Application.explicit" />
       <item itemvalue="CMake Application.funcJudge" />
@@ -318,7 +331,7 @@
       <workItem from="1570690329311" duration="13000" />
       <workItem from="1571371816192" duration="721000" />
       <workItem from="1571411031444" duration="16555000" />
-      <workItem from="1571551235091" duration="2754000" />
+      <workItem from="1571551235091" duration="4408000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -390,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571550313859</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2016NME-简单模拟题">
+      <created>1571556342423</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571556342423</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
