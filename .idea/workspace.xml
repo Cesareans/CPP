@@ -14,10 +14,14 @@
       <config projectName="CPP" targetName="Trie" />
       <config projectName="CPP" targetName="refField" />
       <config projectName="CPP" targetName="intelljPtrImpl" />
+      <config projectName="CPP" targetName="maxValueInWindow" />
       <config projectName="CPP" targetName="initOrder" />
       <config projectName="CPP" targetName="virtualInherit" />
       <config projectName="CPP" targetName="new" />
+      <config projectName="CPP" targetName="exponent" />
       <config projectName="CPP" targetName="2016NME_XiaoYi" />
+      <config projectName="CPP" targetName="rectCover" />
+      <config projectName="CPP" targetName="reorderArray" />
       <config projectName="CPP" targetName="CPPAlgorithm" />
       <config projectName="CPP" targetName="funcJudge" />
       <config projectName="CPP" targetName="constructor" />
@@ -25,6 +29,7 @@
       <config projectName="CPP" targetName="initialize" />
       <config projectName="CPP" targetName="multiInclude" />
       <config projectName="CPP" targetName="cutRope" />
+      <config projectName="CPP" targetName="nonRepeatableChar" />
       <config projectName="CPP" targetName="intellijPtr" />
       <config projectName="CPP" targetName="climbStairs" />
       <config projectName="CPP" targetName="virtualFunc" />
@@ -47,10 +52,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="564aa870-1d22-43aa-a5df-43e4aab69ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/arrayOverHalf.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/cutRope.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/midianInDataFlow.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/nSum.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/exponent.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/maxValueInWindow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/nonRepeatableChar.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/rectCover.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/reorderArray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" afterDir="false" />
     </list>
@@ -111,17 +118,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Problem" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Problem/SwordToOffer" />
+      <recent name="$PROJECT_DIR$/Problem/NME" />
+      <recent name="$PROJECT_DIR$/Testor/header" />
+      <recent name="$PROJECT_DIR$/Algorithm" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Problem" />
       <recent name="$PROJECT_DIR$/Testor" />
-      <recent name="$PROJECT_DIR$/Algorithm" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Problem/NME" />
-      <recent name="$PROJECT_DIR$/Testor/header" />
       <recent name="$PROJECT_DIR$/Algorithm" />
     </key>
   </component>
@@ -137,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.midianInDataFlow">
+  <component name="RunManager" selected="CMake Application.reorderArray">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -213,6 +221,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exponent" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="exponent" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="exponent">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="funcJudge" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="funcJudge" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="funcJudge">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -238,6 +251,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="maxValueInWindow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="maxValueInWindow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="maxValueInWindow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="midianInDataFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="midianInDataFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="midianInDataFlow">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -258,6 +276,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="nonRepeatableChar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="nonRepeatableChar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="nonRepeatableChar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="nullptr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="nullptr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="nullptr">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -273,7 +296,17 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rectCover" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="rectCover" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="rectCover">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="refField" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="refField" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="refField">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reorderArray" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="reorderArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="reorderArray">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -327,8 +360,13 @@
       <item itemvalue="CMake Application.arrayOverHalf" />
       <item itemvalue="CMake Application.buildBinaryTree" />
       <item itemvalue="CMake Application.cutRope" />
+      <item itemvalue="CMake Application.exponent" />
+      <item itemvalue="CMake Application.maxValueInWindow" />
       <item itemvalue="CMake Application.midianInDataFlow" />
+      <item itemvalue="CMake Application.nonRepeatableChar" />
       <item itemvalue="CMake Application.nSum" />
+      <item itemvalue="CMake Application.rectCover" />
+      <item itemvalue="CMake Application.reorderArray" />
       <item itemvalue="CMake Application.SearchIn2DArray" />
       <item itemvalue="CMake Application.Trie" />
       <item itemvalue="CMake Application.const" />
@@ -376,7 +414,7 @@
       <workItem from="1571371816192" duration="721000" />
       <workItem from="1571411031444" duration="16555000" />
       <workItem from="1571551235091" duration="4408000" />
-      <workItem from="1571666736473" duration="6887000" />
+      <workItem from="1571666736473" duration="11673000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -469,7 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571668721511</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="剑指offer大量题目">
+      <created>1571676660657</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1571676660657</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -494,7 +539,8 @@
     <MESSAGE value="refField" />
     <MESSAGE value="Some more test" />
     <MESSAGE value="2016NME-简单模拟题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2016NME-简单模拟题" />
+    <MESSAGE value="剑指offer大量题目" />
+    <option name="LAST_COMMIT_MESSAGE" value="剑指offer大量题目" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -514,6 +560,16 @@
           <line>31</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/maxValueInWindow.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/reorderArray.cpp</url>
+          <line>17</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -522,6 +578,9 @@
         <watch expression="solution.maxHeap.top()" language="ObjectiveC" />
         <watch expression="solution.minHeap.size()" language="ObjectiveC" />
         <watch expression="solution.minHeap.top()" language="ObjectiveC" />
+        <watch expression="vec" language="ObjectiveC" />
+        <watch expression="q" language="ObjectiveC" />
+        <watch expression="q.front()" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
