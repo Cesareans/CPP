@@ -37,6 +37,7 @@ void printPre(TreeNode *n) {
 class Solution {
 public:
     TreeNode *reConstructBinaryTree(vector<int> pre, vector<int> vin) {
+        if(pre.size() == 0) return nullptr;
         return reConstructBinaryTree(pre, 0, pre.size() - 1, vin, 0, vin.size() - 1);
     }
 
