@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
 class A {
@@ -32,8 +33,14 @@ public:
 	}
 };
 
+class C {
+private:
+    C(){};
+};
+
 int  main() {
 	B* b = new B(1);
 	B* b1 = new B();
 	A a;
+
 }

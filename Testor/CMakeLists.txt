@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.14)
 project(CPPTestor)
 
 set(CMAKE_CXX_STANDARD 14)
-set (CMAKE_CXX_FLAGS "-fno-elide-constructors")
+# set (CMAKE_CXX_FLAGS "-fno-elide-constructors")
 
 add_executable(rValueRef rValueRef.cpp)
 add_executable(constructor constructor.cpp)
@@ -29,3 +29,4 @@ add_executable(decltype decltype.cpp)
 add_executable(const const.cpp)
 add_executable(multiInclude multiInclude.cpp)
 add_executable(ztest ztest.cpp)
+add_executable(move move.cpp)
