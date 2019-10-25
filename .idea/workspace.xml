@@ -6,10 +6,12 @@
       <config projectName="CPP" targetName="const" />
       <config projectName="CPP" targetName="nSum" />
       <config projectName="CPP" targetName="p22entryNodeOfLoop" />
+      <config projectName="CPP" targetName="p33printFromTopToBottom" />
       <config projectName="CPP" targetName="template" />
       <config projectName="CPP" targetName="VirtualClass" />
       <config projectName="CPP" targetName="p3SearchIn2DArray" />
       <config projectName="CPP" targetName="p13maxProductAfterCutting" />
+      <config projectName="CPP" targetName="p32printFromTopToBottom" />
       <config projectName="CPP" targetName="intelljPtrImpl" />
       <config projectName="CPP" targetName="p5printListReversingly" />
       <config projectName="CPP" targetName="p27isSymmetric" />
@@ -20,6 +22,7 @@
       <config projectName="CPP" targetName="p16deleteNode" />
       <config projectName="CPP" targetName="constructor" />
       <config projectName="CPP" targetName="static" />
+      <config projectName="CPP" targetName="p31printFromTopToBottom" />
       <config projectName="CPP" targetName="multiInclude" />
       <config projectName="CPP" targetName="p24mergeTwoSortedArray" />
       <config projectName="CPP" targetName="virtualFunc" />
@@ -37,6 +40,7 @@
       <config projectName="CPP" targetName="decltype" />
       <config projectName="CPP" targetName="p28printMatrix" />
       <config projectName="CPP" targetName="p8twoStackQueue" />
+      <config projectName="CPP" targetName="p30pushPop" />
       <config projectName="CPP" targetName="struct" />
       <config projectName="CPP" targetName="operator" />
       <config projectName="CPP" targetName="p15power" />
@@ -76,17 +80,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="564aa870-1d22-43aa-a5df-43e4aab69ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p23reverseList.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p24mergeTwoSortedArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p25hasSubtree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p26mirrorBinaryTree.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p27isSymmetric.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p28printMatrix.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p29MinStack.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p30pushPop.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p31printFromTopToBottom.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p32printFromTopToBottom.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p33printFromTopToBottom.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/header/base.h" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/header/base.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/fibonaci.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/fibonaci.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p28printMatrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p28printMatrix.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.p25hasSubtree">
+  <component name="RunManager" selected="CMake Application.p32printFromTopToBottom">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -404,6 +404,26 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p30pushPop" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p30pushPop" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p30pushPop">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p31printFromTopToBottom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p31printFromTopToBottom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p31printFromTopToBottom">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p32printFromTopToBottom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p32printFromTopToBottom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p32printFromTopToBottom">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p33printFromTopToBottom" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p33printFromTopToBottom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p33printFromTopToBottom">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p3SearchIn2DArray" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p3SearchIn2DArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p3SearchIn2DArray">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -530,6 +550,10 @@
       <item itemvalue="CMake Application.p28printMatrix" />
       <item itemvalue="CMake Application.p29MinStack" />
       <item itemvalue="CMake Application.p2duplicateInArray" />
+      <item itemvalue="CMake Application.p30pushPop" />
+      <item itemvalue="CMake Application.p31printFromTopToBottom" />
+      <item itemvalue="CMake Application.p32printFromTopToBottom" />
+      <item itemvalue="CMake Application.p33printFromTopToBottom" />
       <item itemvalue="CMake Application.p3SearchIn2DArray" />
       <item itemvalue="CMake Application.p4replaceSpaces" />
       <item itemvalue="CMake Application.p5printListReversingly" />
@@ -592,7 +616,7 @@
       <workItem from="1571818300078" duration="1548000" />
       <workItem from="1571821703514" duration="591000" />
       <workItem from="1571882208499" duration="1003000" />
-      <workItem from="1571972873048" duration="6179000" />
+      <workItem from="1571972873048" duration="9446000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -720,7 +744,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571883257128</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="剑指offer大量题目">
+      <created>1571982451191</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571982451191</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -826,18 +857,38 @@
           <line>19</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p28printMatrix.cpp</url>
+          <line>30</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p31printFromTopToBottom.cpp</url>
+          <line>23</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p32printFromTopToBottom.cpp</url>
+          <line>32</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p32printFromTopToBottom.cpp</url>
+          <line>13</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="array[i][j]" language="ObjectiveC" />
-        <watch expression="str[i]" language="ObjectiveC" />
-        <watch expression="array[i]" language="ObjectiveC" />
-        <watch expression="array[j]" language="ObjectiveC" />
-        <watch expression="au.get()" language="ObjectiveC" />
-        <watch expression="vec[i].get()" language="ObjectiveC" />
-        <watch expression="pRoot1-&gt;val" language="ObjectiveC" />
-        <watch expression="pRoot2-&gt;val" language="ObjectiveC" />
+        <watch expression="x" language="ObjectiveC" />
+        <watch expression="y" language="ObjectiveC" />
+        <watch expression="matrix[y][x]" language="ObjectiveC" />
+        <watch expression="level" language="ObjectiveC" />
+        <watch expression="tq" language="ObjectiveC" />
+        <watch expression="tq.size()" language="ObjectiveC" />
+        <watch expression="tq.front()" language="ObjectiveC" />
+        <watch expression="tq.empty()" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
