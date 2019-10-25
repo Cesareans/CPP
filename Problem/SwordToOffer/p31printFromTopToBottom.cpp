@@ -21,5 +21,5 @@ public:
 };
 
 int main(){
-    printVector(Solution().printFromTopToBottom(TreeNode::build({2,-1,-1})));
+    cout << Solution().printFromTopToBottom(TreeNode::build({2,-1,-1}));
 }

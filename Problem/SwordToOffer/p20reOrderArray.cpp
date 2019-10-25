@@ -17,6 +17,6 @@ public:
 int main(){
     vector<int> vec = {1,2,3,4,5};
     Solution().reOrderArray(vec);
-    printVector<int>(vec);
+    cout<<(vec);
     return 0;
 }

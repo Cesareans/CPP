@@ -56,7 +56,7 @@ struct ListNode {
 };
 
 template<class T>
-void printVector(vector<T> vec) {
+ostream& operator<<(ostream&, vector<T> vec){
     for (T t : vec) cout << t << " ";
     cout << endl;
 }
