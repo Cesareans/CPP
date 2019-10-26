@@ -3,90 +3,100 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="CPP" targetName="p72nSum" />
-      <config projectName="CPP" targetName="p26mirrorBinaryTree" />
-      <config projectName="CPP" targetName="const" />
-      <config projectName="CPP" targetName="p22entryNodeOfLoop" />
+      <config projectName="CPP" targetName="p47getTranslationCount" />
+      <config projectName="CPP" targetName="p45digitAtIndex" />
+      <config projectName="CPP" targetName="p51firstNotRepeatingChar" />
       <config projectName="CPP" targetName="p33printFromTopToBottom" />
+      <config projectName="CPP" targetName="p48getMaxValue" />
       <config projectName="CPP" targetName="template" />
-      <config projectName="CPP" targetName="VirtualClass" />
       <config projectName="CPP" targetName="p3SearchIn2DArray" />
-      <config projectName="CPP" targetName="p57getNumberSameAsIndex" />
       <config projectName="CPP" targetName="p60isBalanced" />
-      <config projectName="CPP" targetName="p13maxProductAfterCutting" />
       <config projectName="CPP" targetName="p32printFromTopToBottom" />
-      <config projectName="CPP" targetName="p58kthNode" />
       <config projectName="CPP" targetName="p61findNumsAppearOnce" />
       <config projectName="CPP" targetName="intelljPtrImpl" />
-      <config projectName="CPP" targetName="p5printListReversingly" />
       <config projectName="CPP" targetName="p27isSymmetric" />
-      <config projectName="CPP" targetName="p2duplicateInArray" />
       <config projectName="CPP" targetName="initOrder" />
       <config projectName="CPP" targetName="2016NME_XiaoYi" />
       <config projectName="CPP" targetName="p56getMissingNumber" />
-      <config projectName="CPP" targetName="p16deleteNode" />
-      <config projectName="CPP" targetName="constructor" />
-      <config projectName="CPP" targetName="static" />
       <config projectName="CPP" targetName="p31printFromTopToBottom" />
-      <config projectName="CPP" targetName="multiInclude" />
       <config projectName="CPP" targetName="p40arrayOverHalf" />
       <config projectName="CPP" targetName="p24mergeTwoSortedArray" />
-      <config projectName="CPP" targetName="virtualFunc" />
       <config projectName="CPP" targetName="p65reverseWords" />
-      <config projectName="CPP" targetName="rValueRef" />
       <config projectName="CPP" targetName="explicit" />
-      <config projectName="CPP" targetName="p9fibonacci" />
-      <config projectName="CPP" targetName="p7inorderSuccessor" />
       <config projectName="CPP" targetName="test" />
       <config projectName="CPP" targetName="p71maxStockProfits" />
-      <config projectName="CPP" targetName="p43maxSubArray" />
       <config projectName="CPP" targetName="nullptr" />
-      <config projectName="CPP" targetName="2016NME_BatteryAttack" />
-      <config projectName="CPP" targetName="p62findNumberAppearingOnce" />
-      <config projectName="CPP" targetName="p37convert" />
-      <config projectName="CPP" targetName="p38serialize" />
-      <config projectName="CPP" targetName="vptr" />
       <config projectName="CPP" targetName="p21findKthToTail" />
-      <config projectName="CPP" targetName="decltype" />
       <config projectName="CPP" targetName="p28printMatrix" />
-      <config projectName="CPP" targetName="p8twoStackQueue" />
       <config projectName="CPP" targetName="p30pushPop" />
       <config projectName="CPP" targetName="struct" />
-      <config projectName="CPP" targetName="operator" />
       <config projectName="CPP" targetName="p15power" />
       <config projectName="CPP" targetName="p6buildBinaryTree" />
       <config projectName="CPP" targetName="Trie" />
       <config projectName="CPP" targetName="refField" />
       <config projectName="CPP" targetName="p35findPath" />
       <config projectName="CPP" targetName="p63findNumbersWithSum" />
-      <config projectName="CPP" targetName="p67maxInWindow" />
       <config projectName="CPP" targetName="fibonaci" />
-      <config projectName="CPP" targetName="virtualInherit" />
-      <config projectName="CPP" targetName="exponent" />
       <config projectName="CPP" targetName="new" />
       <config projectName="CPP" targetName="p20reOrderArray" />
       <config projectName="CPP" targetName="rectCover" />
       <config projectName="CPP" targetName="p1duplicateInArray" />
+      <config projectName="CPP" targetName="p29MinStack" />
+      <config projectName="CPP" targetName="initialize" />
+      <config projectName="CPP" targetName="p55getNumberOfK" />
+      <config projectName="CPP" targetName="emptyClass" />
+      <config projectName="CPP" targetName="p66leftRotateString" />
+      <config projectName="CPP" targetName="p41minks" />
+      <config projectName="CPP" targetName="p26mirrorBinaryTree" />
+      <config projectName="CPP" targetName="const" />
+      <config projectName="CPP" targetName="p22entryNodeOfLoop" />
+      <config projectName="CPP" targetName="VirtualClass" />
+      <config projectName="CPP" targetName="p57getNumberSameAsIndex" />
+      <config projectName="CPP" targetName="p49longestSubstringWithoutDuplication" />
+      <config projectName="CPP" targetName="p13maxProductAfterCutting" />
+      <config projectName="CPP" targetName="p58kthNode" />
+      <config projectName="CPP" targetName="p5printListReversingly" />
+      <config projectName="CPP" targetName="p2duplicateInArray" />
+      <config projectName="CPP" targetName="p74multiply" />
+      <config projectName="CPP" targetName="p46printMinNumber" />
+      <config projectName="CPP" targetName="p16deleteNode" />
+      <config projectName="CPP" targetName="constructor" />
+      <config projectName="CPP" targetName="static" />
+      <config projectName="CPP" targetName="multiInclude" />
+      <config projectName="CPP" targetName="p50getUglyNumber" />
+      <config projectName="CPP" targetName="virtualFunc" />
+      <config projectName="CPP" targetName="rValueRef" />
+      <config projectName="CPP" targetName="p9fibonacci" />
+      <config projectName="CPP" targetName="p52firstNotRepeatingCharInFlow" />
+      <config projectName="CPP" targetName="p7inorderSuccessor" />
+      <config projectName="CPP" targetName="p43maxSubArray" />
+      <config projectName="CPP" targetName="2016NME_BatteryAttack" />
+      <config projectName="CPP" targetName="p62findNumberAppearingOnce" />
+      <config projectName="CPP" targetName="p37convert" />
+      <config projectName="CPP" targetName="p38serialize" />
+      <config projectName="CPP" targetName="vptr" />
+      <config projectName="CPP" targetName="decltype" />
+      <config projectName="CPP" targetName="p8twoStackQueue" />
+      <config projectName="CPP" targetName="operator" />
+      <config projectName="CPP" targetName="p53inversePairs" />
+      <config projectName="CPP" targetName="p54findFirstCommonNode" />
+      <config projectName="CPP" targetName="p67maxInWindow" />
+      <config projectName="CPP" targetName="virtualInherit" />
       <config projectName="CPP" targetName="p23reverseList" />
       <config projectName="CPP" targetName="CPPAlgorithm" />
-      <config projectName="CPP" targetName="p29MinStack" />
       <config projectName="CPP" targetName="funcJudge" />
       <config projectName="CPP" targetName="ztest" />
       <config projectName="CPP" targetName="p25hasSubtree" />
       <config projectName="CPP" targetName="p39permutation" />
-      <config projectName="CPP" targetName="initialize" />
-      <config projectName="CPP" targetName="cutRope" />
       <config projectName="CPP" targetName="p14NumberOf1" />
       <config projectName="CPP" targetName="p4replaceSpaces" />
-      <config projectName="CPP" targetName="nonRepeatableChar" />
+      <config projectName="CPP" targetName="p73add" />
       <config projectName="CPP" targetName="intellijPtr" />
       <config projectName="CPP" targetName="p42midianInDataFlow" />
       <config projectName="CPP" targetName="climbStairs" />
       <config projectName="CPP" targetName="p17deleteDuplication" />
-      <config projectName="CPP" targetName="emptyClass" />
       <config projectName="CPP" targetName="p64findContinuousSequence" />
-      <config projectName="CPP" targetName="p66leftRotateString" />
       <config projectName="CPP" targetName="move" />
-      <config projectName="CPP" targetName="p41minks" />
       <config projectName="CPP" targetName="vtable" />
       <config projectName="CPP" targetName="p59treeDepth" />
     </generated>
@@ -98,36 +108,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="564aa870-1d22-43aa-a5df-43e4aab69ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p35findPath.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p37convert.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p38serialize.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p39permutation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p41minks.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p43maxSubArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p56getMissingNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p57getNumberSameAsIndex.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p58kthNode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p59treeDepth.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p60isBalanced.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p61findNumsAppearOnce.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p62findNumberAppearingOnce.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p63findNumbersWithSum.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p64findContinuousSequence.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p65reverseWords.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p66leftRotateString.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p71maxStockProfits.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p45digitAtIndex.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p46printMinNumber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p47getTranslationCount.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p48getMaxValue.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p49longestSubstringWithoutDuplication.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p50getUglyNumber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p51firstNotRepeatingChar.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p52firstNotRepeatingCharInFlow.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p53inversePairs.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p54findFirstCommonNode.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p55getNumberOfK.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p73add.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p74multiply.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/arrayOverHalf.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p40arrayOverHalf.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/cutRope.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/exponent.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/header/base.h" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/header/base.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/maxInWindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p67maxInWindow.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/midianInDataFlow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p42midianInDataFlow.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/nSum.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p72nSum.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p20reOrderArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p20reOrderArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p28printMatrix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p28printMatrix.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p30pushPop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p30pushPop.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p31printFromTopToBottom.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p31printFromTopToBottom.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p33printFromTopToBottom.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p33printFromTopToBottom.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/nonRepeatableChar.cpp" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,16 +189,16 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Problem/SwordToOffer" />
-      <recent name="$PROJECT_DIR$/Problem/NME" />
-      <recent name="$PROJECT_DIR$/Testor/header" />
-      <recent name="$PROJECT_DIR$/Algorithm" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Problem/SwordToOffer" />
       <recent name="$PROJECT_DIR$/Problem" />
       <recent name="$PROJECT_DIR$/Testor" />
+      <recent name="$PROJECT_DIR$/Algorithm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Problem/SwordToOffer" />
+      <recent name="$PROJECT_DIR$/Problem/NME" />
+      <recent name="$PROJECT_DIR$/Testor/header" />
       <recent name="$PROJECT_DIR$/Algorithm" />
     </key>
   </component>
@@ -215,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.p66leftRotateString">
+  <component name="RunManager" selected="CMake Application.p74multiply">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -256,11 +255,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cutRope" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="cutRope" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="cutRope">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="decltype" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="decltype" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="decltype">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -272,11 +266,6 @@
       </method>
     </configuration>
     <configuration name="explicit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="explicit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="explicit">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="exponent" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="exponent" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="exponent">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -322,11 +311,6 @@
       </method>
     </configuration>
     <configuration name="new" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="new" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="new">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="nonRepeatableChar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="nonRepeatableChar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="nonRepeatableChar">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -491,7 +475,62 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p45digitAtIndex" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p45digitAtIndex" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p45digitAtIndex">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p46printMinNumber" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p46printMinNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p46printMinNumber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p47getTranslationCount" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p47getTranslationCount" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p47getTranslationCount">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p48getMaxValue" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p48getMaxValue" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p48getMaxValue">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p49longestSubstringWithoutDuplication" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p49longestSubstringWithoutDuplication" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p49longestSubstringWithoutDuplication">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p4replaceSpaces" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p4replaceSpaces" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p4replaceSpaces">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p50getUglyNumber" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p50getUglyNumber" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p50getUglyNumber">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p51firstNotRepeatingChar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p51firstNotRepeatingChar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p51firstNotRepeatingChar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p52firstNotRepeatingCharInFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p52firstNotRepeatingCharInFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p52firstNotRepeatingCharInFlow">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p53inversePairs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p53inversePairs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p53inversePairs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p54findFirstCommonNode" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p54findFirstCommonNode" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p54findFirstCommonNode">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p55getNumberOfK" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p55getNumberOfK" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p55getNumberOfK">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -572,6 +611,16 @@
       </method>
     </configuration>
     <configuration name="p72nSum" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p72nSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p72nSum">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p73add" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p73add" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p73add">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p74multiply" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p74multiply" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p74multiply">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -658,9 +707,6 @@
       <item itemvalue="CMake Application.fibonaci" />
       <item itemvalue="CMake Application.2016NME_BatteryAttack" />
       <item itemvalue="CMake Application.2016NME_XiaoYi" />
-      <item itemvalue="CMake Application.cutRope" />
-      <item itemvalue="CMake Application.exponent" />
-      <item itemvalue="CMake Application.nonRepeatableChar" />
       <item itemvalue="CMake Application.p13maxProductAfterCutting" />
       <item itemvalue="CMake Application.p14NumberOf1" />
       <item itemvalue="CMake Application.p15power" />
@@ -691,7 +737,18 @@
       <item itemvalue="CMake Application.p41minks" />
       <item itemvalue="CMake Application.p42midianInDataFlow" />
       <item itemvalue="CMake Application.p43maxSubArray" />
+      <item itemvalue="CMake Application.p45digitAtIndex" />
+      <item itemvalue="CMake Application.p46printMinNumber" />
+      <item itemvalue="CMake Application.p47getTranslationCount" />
+      <item itemvalue="CMake Application.p48getMaxValue" />
+      <item itemvalue="CMake Application.p49longestSubstringWithoutDuplication" />
       <item itemvalue="CMake Application.p4replaceSpaces" />
+      <item itemvalue="CMake Application.p50getUglyNumber" />
+      <item itemvalue="CMake Application.p51firstNotRepeatingChar" />
+      <item itemvalue="CMake Application.p52firstNotRepeatingCharInFlow" />
+      <item itemvalue="CMake Application.p53inversePairs" />
+      <item itemvalue="CMake Application.p54findFirstCommonNode" />
+      <item itemvalue="CMake Application.p55getNumberOfK" />
       <item itemvalue="CMake Application.p56getMissingNumber" />
       <item itemvalue="CMake Application.p57getNumberSameAsIndex" />
       <item itemvalue="CMake Application.p58kthNode" />
@@ -708,6 +765,8 @@
       <item itemvalue="CMake Application.p6buildBinaryTree" />
       <item itemvalue="CMake Application.p71maxStockProfits" />
       <item itemvalue="CMake Application.p72nSum" />
+      <item itemvalue="CMake Application.p73add" />
+      <item itemvalue="CMake Application.p74multiply" />
       <item itemvalue="CMake Application.p7inorderSuccessor" />
       <item itemvalue="CMake Application.p8twoStackQueue" />
       <item itemvalue="CMake Application.p9fibonacci" />
@@ -766,7 +825,7 @@
       <workItem from="1571818300078" duration="1548000" />
       <workItem from="1571821703514" duration="591000" />
       <workItem from="1571882208499" duration="1003000" />
-      <workItem from="1571972873048" duration="22881000" />
+      <workItem from="1571972873048" duration="34345000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -908,7 +967,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571987578621</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="剑指offer大量题目">
+      <created>1572009159221</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1572009159221</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -939,16 +1005,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/cutRope.cpp</url>
-          <line>17</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/cutRope.cpp</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p42midianInDataFlow.cpp</url>
           <line>31</line>
@@ -1101,22 +1157,38 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p66leftRotateString.cpp</url>
-          <line>19</line>
+          <line>16</line>
           <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p49longestSubstringWithoutDuplication.cpp</url>
+          <line>25</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p55getNumberOfK.cpp</url>
+          <line>27</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p48getMaxValue.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p73add.cpp</url>
+          <line>16</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="tq" language="ObjectiveC" />
-        <watch expression="tq.front()" language="ObjectiveC" />
-        <watch expression="tq.empty()" language="ObjectiveC" />
-        <watch expression="node" language="ObjectiveC" />
-        <watch expression="res" language="ObjectiveC" />
-        <watch expression="node" language="ObjectiveC" />
-        <watch expression="s[i]" language="ObjectiveC" />
-        <watch expression="*(s.begin()+pre)" language="ObjectiveC" />
-        <watch expression="*(s.begin() + pre + i)" language="ObjectiveC" />
+        <watch expression="3&gt;&gt;2" language="ObjectiveC" />
+        <watch expression="*ls.begin()" language="ObjectiveC" />
+        <watch expression="(int(*)[4])arr" language="ObjectiveC" />
+        <watch expression="num1 ^ num2" language="ObjectiveC" />
+        <watch expression="1 ^ 1" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>
