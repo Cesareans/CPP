@@ -16,6 +16,8 @@
       <config projectName="CPP" targetName="intelljPtrImpl" />
       <config projectName="CPP" targetName="p27isSymmetric" />
       <config projectName="CPP" targetName="initOrder" />
+      <config projectName="CPP" targetName="p68numberOfDice" />
+      <config projectName="CPP" targetName="p75strToInt" />
       <config projectName="CPP" targetName="2016NME_XiaoYi" />
       <config projectName="CPP" targetName="p56getMissingNumber" />
       <config projectName="CPP" targetName="p31printFromTopToBottom" />
@@ -37,6 +39,7 @@
       <config projectName="CPP" targetName="p35findPath" />
       <config projectName="CPP" targetName="p63findNumbersWithSum" />
       <config projectName="CPP" targetName="fibonaci" />
+      <config projectName="CPP" targetName="p42medianInDataFlow" />
       <config projectName="CPP" targetName="new" />
       <config projectName="CPP" targetName="p20reOrderArray" />
       <config projectName="CPP" targetName="rectCover" />
@@ -47,6 +50,7 @@
       <config projectName="CPP" targetName="emptyClass" />
       <config projectName="CPP" targetName="p66leftRotateString" />
       <config projectName="CPP" targetName="p41minks" />
+      <config projectName="CPP" targetName="p69isContinuous" />
       <config projectName="CPP" targetName="p26mirrorBinaryTree" />
       <config projectName="CPP" targetName="const" />
       <config projectName="CPP" targetName="p22entryNodeOfLoop" />
@@ -79,6 +83,7 @@
       <config projectName="CPP" targetName="p8twoStackQueue" />
       <config projectName="CPP" targetName="operator" />
       <config projectName="CPP" targetName="p53inversePairs" />
+      <config projectName="CPP" targetName="p11hasPath" />
       <config projectName="CPP" targetName="p54findFirstCommonNode" />
       <config projectName="CPP" targetName="p67maxInWindow" />
       <config projectName="CPP" targetName="virtualInherit" />
@@ -92,13 +97,13 @@
       <config projectName="CPP" targetName="p4replaceSpaces" />
       <config projectName="CPP" targetName="p73add" />
       <config projectName="CPP" targetName="intellijPtr" />
-      <config projectName="CPP" targetName="p42midianInDataFlow" />
       <config projectName="CPP" targetName="climbStairs" />
       <config projectName="CPP" targetName="p17deleteDuplication" />
       <config projectName="CPP" targetName="p64findContinuousSequence" />
       <config projectName="CPP" targetName="move" />
       <config projectName="CPP" targetName="vtable" />
       <config projectName="CPP" targetName="p59treeDepth" />
+      <config projectName="CPP" targetName="p10findMin" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -108,25 +113,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="564aa870-1d22-43aa-a5df-43e4aab69ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p45digitAtIndex.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p46printMinNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p47getTranslationCount.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p48getMaxValue.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p49longestSubstringWithoutDuplication.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p50getUglyNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p51firstNotRepeatingChar.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p52firstNotRepeatingCharInFlow.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p53inversePairs.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p54findFirstCommonNode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p55getNumberOfK.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p73add.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p74multiply.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p10findMin.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p11hasPath.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p68numberOfDice.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p69isContinuous.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p75strToInt.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/cutRope.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/exponent.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/header/base.h" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/header/base.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/nonRepeatableChar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p2duplicateInArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p2duplicateInArray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p42midianInDataFlow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p42medianInDataFlow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p46printMinNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p46printMinNumber.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p60isBalanced.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p60isBalanced.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.p74multiply">
+  <component name="RunManager" selected="CMake Application.p11hasPath">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -321,6 +319,16 @@
       </method>
     </configuration>
     <configuration name="operator" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="operator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="operator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p10findMin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p10findMin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p10findMin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p11hasPath" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p11hasPath" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p11hasPath">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -465,7 +473,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p42midianInDataFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p42midianInDataFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p42midianInDataFlow">
+    <configuration name="p42medianInDataFlow" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p42medianInDataFlow" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p42medianInDataFlow">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -600,6 +608,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p68numberOfDice" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p68numberOfDice" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p68numberOfDice">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p69isContinuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p69isContinuous" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p69isContinuous">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p6buildBinaryTree" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p6buildBinaryTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p6buildBinaryTree">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -621,6 +639,11 @@
       </method>
     </configuration>
     <configuration name="p74multiply" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p74multiply" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p74multiply">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p75strToInt" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="p75strToInt" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="p75strToInt">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -707,6 +730,8 @@
       <item itemvalue="CMake Application.fibonaci" />
       <item itemvalue="CMake Application.2016NME_BatteryAttack" />
       <item itemvalue="CMake Application.2016NME_XiaoYi" />
+      <item itemvalue="CMake Application.p10findMin" />
+      <item itemvalue="CMake Application.p11hasPath" />
       <item itemvalue="CMake Application.p13maxProductAfterCutting" />
       <item itemvalue="CMake Application.p14NumberOf1" />
       <item itemvalue="CMake Application.p15power" />
@@ -735,7 +760,7 @@
       <item itemvalue="CMake Application.p3SearchIn2DArray" />
       <item itemvalue="CMake Application.p40arrayOverHalf" />
       <item itemvalue="CMake Application.p41minks" />
-      <item itemvalue="CMake Application.p42midianInDataFlow" />
+      <item itemvalue="CMake Application.p42medianInDataFlow" />
       <item itemvalue="CMake Application.p43maxSubArray" />
       <item itemvalue="CMake Application.p45digitAtIndex" />
       <item itemvalue="CMake Application.p46printMinNumber" />
@@ -762,11 +787,14 @@
       <item itemvalue="CMake Application.p65reverseWords" />
       <item itemvalue="CMake Application.p66leftRotateString" />
       <item itemvalue="CMake Application.p67maxInWindow" />
+      <item itemvalue="CMake Application.p68numberOfDice" />
+      <item itemvalue="CMake Application.p69isContinuous" />
       <item itemvalue="CMake Application.p6buildBinaryTree" />
       <item itemvalue="CMake Application.p71maxStockProfits" />
       <item itemvalue="CMake Application.p72nSum" />
       <item itemvalue="CMake Application.p73add" />
       <item itemvalue="CMake Application.p74multiply" />
+      <item itemvalue="CMake Application.p75strToInt" />
       <item itemvalue="CMake Application.p7inorderSuccessor" />
       <item itemvalue="CMake Application.p8twoStackQueue" />
       <item itemvalue="CMake Application.p9fibonacci" />
@@ -825,7 +853,7 @@
       <workItem from="1571818300078" duration="1548000" />
       <workItem from="1571821703514" duration="591000" />
       <workItem from="1571882208499" duration="1003000" />
-      <workItem from="1571972873048" duration="34345000" />
+      <workItem from="1571972873048" duration="42950000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -974,7 +1002,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572009159221</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="剑指offer大量题目">
+      <created>1572080406687</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1572080406687</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1006,7 +1041,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p42midianInDataFlow.cpp</url>
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p42medianInDataFlow.cpp</url>
           <line>31</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
@@ -1180,15 +1215,30 @@
           <line>16</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p68numberOfDice.cpp</url>
+          <line>19</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p68numberOfDice.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/SwordToOffer/p10findMin.cpp</url>
+          <line>17</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="3&gt;&gt;2" language="ObjectiveC" />
-        <watch expression="*ls.begin()" language="ObjectiveC" />
-        <watch expression="(int(*)[4])arr" language="ObjectiveC" />
-        <watch expression="num1 ^ num2" language="ObjectiveC" />
-        <watch expression="1 ^ 1" language="ObjectiveC" />
+        <watch expression="nums[mid]" language="ObjectiveC" />
+        <watch expression="mid" language="ObjectiveC" />
+        <watch expression="matrix[ny][nx]" language="ObjectiveC" />
+        <watch expression="matrix[ny][nx] == str[i]" language="ObjectiveC" />
+        <watch expression="str[i]" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>

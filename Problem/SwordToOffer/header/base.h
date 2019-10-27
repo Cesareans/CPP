@@ -8,6 +8,8 @@
 #include <stack>
 #include <unordered_map>
 #include <unordered_set>
+#include <algorithm>
+#include <climits>
 using namespace std;
 
 struct TreeNode {
@@ -59,9 +61,10 @@ struct ListNode {
 };
 
 template<class T>
-ostream& operator<<(ostream&, vector<T> vec){
-    for (T t : vec) cout << t << " ";
-    cout << endl;
+ostream& operator<<(ostream& os, vector<T> vec){
+    for (T t : vec) os << t << " ";
+    os << endl;
+    return os;
 }
 
 #endif //CPP_BASE_H
