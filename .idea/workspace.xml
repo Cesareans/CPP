@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="CPP" targetName="p72nSum" />
       <config projectName="CPP" targetName="p47getTranslationCount" />
+      <config projectName="CPP" targetName="p72nSum" />
       <config projectName="CPP" targetName="p45digitAtIndex" />
       <config projectName="CPP" targetName="p51firstNotRepeatingChar" />
       <config projectName="CPP" targetName="p33printFromTopToBottom" />
@@ -13,20 +13,22 @@
       <config projectName="CPP" targetName="p60isBalanced" />
       <config projectName="CPP" targetName="p32printFromTopToBottom" />
       <config projectName="CPP" targetName="p61findNumsAppearOnce" />
-      <config projectName="CPP" targetName="intelljPtrImpl" />
       <config projectName="CPP" targetName="p27isSymmetric" />
-      <config projectName="CPP" targetName="initOrder" />
+      <config projectName="CPP" targetName="intelljPtrImpl" />
       <config projectName="CPP" targetName="p68numberOfDice" />
+      <config projectName="CPP" targetName="initOrder" />
       <config projectName="CPP" targetName="p75strToInt" />
+      <config projectName="CPP" targetName="define" />
       <config projectName="CPP" targetName="2016NME_XiaoYi" />
       <config projectName="CPP" targetName="p56getMissingNumber" />
       <config projectName="CPP" targetName="p31printFromTopToBottom" />
       <config projectName="CPP" targetName="p40arrayOverHalf" />
       <config projectName="CPP" targetName="p24mergeTwoSortedArray" />
       <config projectName="CPP" targetName="p65reverseWords" />
+      <config projectName="CPP" targetName="2019NME_StrangeLetter" />
       <config projectName="CPP" targetName="explicit" />
-      <config projectName="CPP" targetName="test" />
       <config projectName="CPP" targetName="p71maxStockProfits" />
+      <config projectName="CPP" targetName="test" />
       <config projectName="CPP" targetName="nullptr" />
       <config projectName="CPP" targetName="p21findKthToTail" />
       <config projectName="CPP" targetName="p28printMatrix" />
@@ -34,6 +36,7 @@
       <config projectName="CPP" targetName="struct" />
       <config projectName="CPP" targetName="p15power" />
       <config projectName="CPP" targetName="p6buildBinaryTree" />
+      <config projectName="CPP" targetName="2019NME_Clock" />
       <config projectName="CPP" targetName="Trie" />
       <config projectName="CPP" targetName="refField" />
       <config projectName="CPP" targetName="p35findPath" />
@@ -46,6 +49,8 @@
       <config projectName="CPP" targetName="p1duplicateInArray" />
       <config projectName="CPP" targetName="p29MinStack" />
       <config projectName="CPP" targetName="initialize" />
+      <config projectName="CPP" targetName="2019NME_ConversationList" />
+      <config projectName="CPP" targetName="2019NME_CharacterMaze" />
       <config projectName="CPP" targetName="p55getNumberOfK" />
       <config projectName="CPP" targetName="emptyClass" />
       <config projectName="CPP" targetName="p66leftRotateString" />
@@ -57,14 +62,16 @@
       <config projectName="CPP" targetName="VirtualClass" />
       <config projectName="CPP" targetName="p57getNumberSameAsIndex" />
       <config projectName="CPP" targetName="p49longestSubstringWithoutDuplication" />
-      <config projectName="CPP" targetName="p13maxProductAfterCutting" />
       <config projectName="CPP" targetName="p58kthNode" />
+      <config projectName="CPP" targetName="p13maxProductAfterCutting" />
       <config projectName="CPP" targetName="p5printListReversingly" />
       <config projectName="CPP" targetName="p2duplicateInArray" />
       <config projectName="CPP" targetName="p74multiply" />
       <config projectName="CPP" targetName="p46printMinNumber" />
       <config projectName="CPP" targetName="p16deleteNode" />
+      <config projectName="CPP" targetName="adjacencyList" />
       <config projectName="CPP" targetName="constructor" />
+      <config projectName="CPP" targetName="intellijPtrVirtualClass" />
       <config projectName="CPP" targetName="static" />
       <config projectName="CPP" targetName="multiInclude" />
       <config projectName="CPP" targetName="p50getUglyNumber" />
@@ -79,27 +86,32 @@
       <config projectName="CPP" targetName="p37convert" />
       <config projectName="CPP" targetName="p38serialize" />
       <config projectName="CPP" targetName="vptr" />
+      <config projectName="CPP" targetName="intellijPtrCast" />
       <config projectName="CPP" targetName="decltype" />
       <config projectName="CPP" targetName="p8twoStackQueue" />
       <config projectName="CPP" targetName="operator" />
       <config projectName="CPP" targetName="p53inversePairs" />
+      <config projectName="CPP" targetName="2019NME_candyPuzzle" />
       <config projectName="CPP" targetName="p11hasPath" />
       <config projectName="CPP" targetName="p54findFirstCommonNode" />
       <config projectName="CPP" targetName="p67maxInWindow" />
+      <config projectName="CPP" targetName="templateRestrictClass" />
       <config projectName="CPP" targetName="virtualInherit" />
       <config projectName="CPP" targetName="p23reverseList" />
       <config projectName="CPP" targetName="CPPAlgorithm" />
+      <config projectName="CPP" targetName="p39permutation" />
       <config projectName="CPP" targetName="funcJudge" />
       <config projectName="CPP" targetName="ztest" />
       <config projectName="CPP" targetName="p25hasSubtree" />
-      <config projectName="CPP" targetName="p39permutation" />
       <config projectName="CPP" targetName="p14NumberOf1" />
-      <config projectName="CPP" targetName="p4replaceSpaces" />
       <config projectName="CPP" targetName="p73add" />
+      <config projectName="CPP" targetName="p4replaceSpaces" />
       <config projectName="CPP" targetName="intellijPtr" />
       <config projectName="CPP" targetName="climbStairs" />
       <config projectName="CPP" targetName="p17deleteDuplication" />
       <config projectName="CPP" targetName="p64findContinuousSequence" />
+      <config projectName="CPP" targetName="inteliijPtrSelf" />
+      <config projectName="CPP" targetName="LinkedPreStar" />
       <config projectName="CPP" targetName="move" />
       <config projectName="CPP" targetName="vtable" />
       <config projectName="CPP" targetName="p59treeDepth" />
@@ -113,18 +125,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="564aa870-1d22-43aa-a5df-43e4aab69ae2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p10findMin.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p11hasPath.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p68numberOfDice.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p69isContinuous.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p75strToInt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/NME/2019NME_CharacterMaze.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/NME/2019NME_Clock.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/NME/2019NME_ConversationList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/NME/2019NME_StrangeLetter.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem/NME/2019NME_candyPuzzle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structure/AdjacencyList.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Structure/LinkedPreStar.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/define.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/inteliijPtrSelf.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/intellijPtrCast.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/intellijPtrVirtualClass.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testor/templateRestrictClass.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/header/base.h" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/header/base.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p2duplicateInArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p2duplicateInArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p42midianInDataFlow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p42medianInDataFlow.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p46printMinNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p46printMinNumber.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problem/SwordToOffer/p60isBalanced.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/SwordToOffer/p60isBalanced.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problem/NME/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Problem/NME/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Structure/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Structure/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testor/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testor/virtualFunc.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Testor/virtualFunc.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,16 +204,16 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Problem/NME" />
+      <recent name="$PROJECT_DIR$/Problem/SwordToOffer" />
+      <recent name="$PROJECT_DIR$/Testor/header" />
+      <recent name="$PROJECT_DIR$/Algorithm" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Problem/SwordToOffer" />
       <recent name="$PROJECT_DIR$/Problem" />
       <recent name="$PROJECT_DIR$/Testor" />
-      <recent name="$PROJECT_DIR$/Algorithm" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Problem/SwordToOffer" />
-      <recent name="$PROJECT_DIR$/Problem/NME" />
-      <recent name="$PROJECT_DIR$/Testor/header" />
       <recent name="$PROJECT_DIR$/Algorithm" />
     </key>
   </component>
@@ -212,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="CMake Application.p11hasPath">
+  <component name="RunManager" selected="CMake Application.intellijPtrVirtualClass">
     <configuration name="2016NME_BatteryAttack" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2016NME_BatteryAttack" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2016NME_BatteryAttack">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -223,7 +240,37 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="2019NME_CharacterMaze" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2019NME_CharacterMaze" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2019NME_CharacterMaze">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2019NME_Clock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2019NME_Clock" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2019NME_Clock">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2019NME_ConversationList" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2019NME_ConversationList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2019NME_ConversationList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2019NME_StrangeLetter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2019NME_StrangeLetter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2019NME_StrangeLetter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2019NME_candyPuzzle" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="2019NME_candyPuzzle" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="2019NME_candyPuzzle">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CPPAlgorithm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="CPPAlgorithm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="CPPAlgorithm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedPreStar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="LinkedPreStar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="LinkedPreStar">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -234,6 +281,11 @@
       </method>
     </configuration>
     <configuration name="VirtualClass" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="VirtualClass" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="VirtualClass">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adjacencyList" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="adjacencyList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="adjacencyList">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -254,6 +306,11 @@
       </method>
     </configuration>
     <configuration name="decltype" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="decltype" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="decltype">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="define" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="define" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="define">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -288,7 +345,22 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inteliijPtrSelf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="inteliijPtrSelf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="inteliijPtrSelf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="intellijPtr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="intellijPtr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="intellijPtr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intellijPtrCast" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="intellijPtrCast" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="intellijPtrCast">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="intellijPtrVirtualClass" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="intellijPtrVirtualClass" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="intellijPtrVirtualClass">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -693,6 +765,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="templateRestrictClass" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="templateRestrictClass" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="templateRestrictClass">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP" RUN_TARGET_NAME="test">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -730,6 +807,11 @@
       <item itemvalue="CMake Application.fibonaci" />
       <item itemvalue="CMake Application.2016NME_BatteryAttack" />
       <item itemvalue="CMake Application.2016NME_XiaoYi" />
+      <item itemvalue="CMake Application.2019NME_candyPuzzle" />
+      <item itemvalue="CMake Application.2019NME_CharacterMaze" />
+      <item itemvalue="CMake Application.2019NME_Clock" />
+      <item itemvalue="CMake Application.2019NME_ConversationList" />
+      <item itemvalue="CMake Application.2019NME_StrangeLetter" />
       <item itemvalue="CMake Application.p10findMin" />
       <item itemvalue="CMake Application.p11hasPath" />
       <item itemvalue="CMake Application.p13maxProductAfterCutting" />
@@ -799,16 +881,22 @@
       <item itemvalue="CMake Application.p8twoStackQueue" />
       <item itemvalue="CMake Application.p9fibonacci" />
       <item itemvalue="CMake Application.rectCover" />
+      <item itemvalue="CMake Application.adjacencyList" />
+      <item itemvalue="CMake Application.LinkedPreStar" />
       <item itemvalue="CMake Application.Trie" />
       <item itemvalue="CMake Application.const" />
       <item itemvalue="CMake Application.constructor" />
       <item itemvalue="CMake Application.decltype" />
+      <item itemvalue="CMake Application.define" />
       <item itemvalue="CMake Application.emptyClass" />
       <item itemvalue="CMake Application.explicit" />
       <item itemvalue="CMake Application.funcJudge" />
       <item itemvalue="CMake Application.initialize" />
       <item itemvalue="CMake Application.initOrder" />
+      <item itemvalue="CMake Application.inteliijPtrSelf" />
       <item itemvalue="CMake Application.intellijPtr" />
+      <item itemvalue="CMake Application.intellijPtrCast" />
+      <item itemvalue="CMake Application.intellijPtrVirtualClass" />
       <item itemvalue="CMake Application.intelljPtrImpl" />
       <item itemvalue="CMake Application.move" />
       <item itemvalue="CMake Application.multiInclude" />
@@ -820,6 +908,7 @@
       <item itemvalue="CMake Application.static" />
       <item itemvalue="CMake Application.struct" />
       <item itemvalue="CMake Application.template" />
+      <item itemvalue="CMake Application.templateRestrictClass" />
       <item itemvalue="CMake Application.VirtualClass" />
       <item itemvalue="CMake Application.virtualFunc" />
       <item itemvalue="CMake Application.virtualInherit" />
@@ -853,7 +942,18 @@
       <workItem from="1571818300078" duration="1548000" />
       <workItem from="1571821703514" duration="591000" />
       <workItem from="1571882208499" duration="1003000" />
-      <workItem from="1571972873048" duration="42950000" />
+      <workItem from="1571972873048" duration="43084000" />
+      <workItem from="1572240263251" duration="7455000" />
+      <workItem from="1572250482478" duration="141000" />
+      <workItem from="1572407935806" duration="516000" />
+      <workItem from="1572869856334" duration="14000" />
+      <workItem from="1575007506680" duration="320000" />
+      <workItem from="1576245383510" duration="335000" />
+      <workItem from="1576304353618" duration="14355000" />
+      <workItem from="1581164654135" duration="1949000" />
+      <workItem from="1581411701035" duration="33000" />
+      <workItem from="1582025095613" duration="898000" />
+      <workItem from="1582030350446" duration="633000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1568694826045</created>
@@ -1009,7 +1109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572080406687</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="剑指offer大量题目">
+      <created>1572168446086</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1572168446086</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1230,15 +1337,30 @@
           <line>17</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/NME/2019NME_CharacterMaze.cpp</url>
+          <line>35</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/NME/2019NME_StrangeLetter.cpp</url>
+          <line>12</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Problem/NME/2019NME_candyPuzzle.cpp</url>
+          <line>18</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="CMakeRunConfiguration">
-        <watch expression="nums[mid]" language="ObjectiveC" />
-        <watch expression="mid" language="ObjectiveC" />
-        <watch expression="matrix[ny][nx]" language="ObjectiveC" />
-        <watch expression="matrix[ny][nx] == str[i]" language="ObjectiveC" />
-        <watch expression="str[i]" language="ObjectiveC" />
+        <watch expression="curt / (cur + 1)" language="ObjectiveC" />
+        <watch expression="(curt / (cur + 1)) * (cur + 1) + cur &gt; 0 ? (cur + 1) : 0" language="ObjectiveC" />
+        <watch expression="(curt / (cur + 1)) * (cur + 1)" language="ObjectiveC" />
+        <watch expression="cur &gt; 0 ? (cur + 1) : 0" language="ObjectiveC" />
+        <watch expression="(curt / (cur + 1)) * (cur + 1) + (cur &gt; 0 ? (cur + 1) : 0)" language="ObjectiveC" />
       </configuration>
     </watches-manager>
   </component>

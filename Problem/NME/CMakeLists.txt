@@ -5,3 +5,8 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(2016NME_XiaoYi 2016NME_XiaoYi.cpp)
 add_executable(2016NME_BatteryAttack 2016NME_BatteryAttack.cpp)
+add_executable(2019NME_ConversationList 2019NME_ConversationList.cpp)
+add_executable(2019NME_Clock 2019NME_Clock.cpp)
+add_executable(2019NME_CharacterMaze 2019NME_CharacterMaze.cpp)
+add_executable(2019NME_StrangeLetter 2019NME_StrangeLetter.cpp)
+add_executable(2019NME_candyPuzzle 2019NME_candyPuzzle.cpp)

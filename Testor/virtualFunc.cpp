@@ -18,6 +18,9 @@ public:
     virtual void bi() {
         cout << "b.bi" << endl;
     }
+    virtual ~B(){
+        cout << "B destructor" << endl;
+    }
 };
 
 int main(){
@@ -26,5 +29,6 @@ int main(){
     a->func();
     // ai记录adj与ptr需要通过a指针进行偏移寻址
     a->ai();
+    delete a;
     return 0;
 }
